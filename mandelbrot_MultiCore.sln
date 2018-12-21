@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mandelbrot_MultiCore", "mandelbrot_MultiCore\mandelbrot_MultiCore.csproj", "{DEAAEEB0-CB93-46E4-9559-E6BA82FFB977}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mandelbrot_master", "mandelbrot_master\mandelbrot_master.csproj", "{F44383F3-6303-4BDA-AF03-C42EB3087A24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEAAEEB0-CB93-46E4-9559-E6BA82FFB977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEAAEEB0-CB93-46E4-9559-E6BA82FFB977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEAAEEB0-CB93-46E4-9559-E6BA82FFB977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEAAEEB0-CB93-46E4-9559-E6BA82FFB977}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F44383F3-6303-4BDA-AF03-C42EB3087A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F44383F3-6303-4BDA-AF03-C42EB3087A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F44383F3-6303-4BDA-AF03-C42EB3087A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F44383F3-6303-4BDA-AF03-C42EB3087A24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\mandelbrot_MultiCore\ClusterHost.cs">
+      <Link>ClusterHost.cs</Link>
+    </Compile>
+  </ItemGroup>
+</Project>
